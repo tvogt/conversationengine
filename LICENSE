@@ -1,3 +1,15 @@
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+There are two licenses, depending on how you use the Unity Conversation Engine. The simple version is:
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+a) you can freely use this to create your own game, but please mention it in the credits somewhere (e.g. "uses Unity Conversation Engine by Tom Vogt")
+
+b) if you extend, polish, improve or otherwise create a new conversation engine script based on this one and wish to distribute it, then in addition to credits you also have to allow others to do likewise with your new work.
+
+
+Legalese:
+
+For the purpose of using this work internally in the creation of your game or application, it is licensed under the BSD License:
+http://opensource.org/licenses/BSD-3-Clause
+
+
+For any other purposes, this work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+http://creativecommons.org/licenses/by-sa/3.0 
