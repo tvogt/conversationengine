@@ -1,13 +1,6 @@
 conversationengine
 ==================
 
-A cinematic dialog script for Unity3D.
+Due to the acquisition of Github, this repo has been moved to:
 
-Documentation is at:
-http://projects.lemuria.org/projects/unitytools/wiki/Conversation_Engine
-
-some discussion and details are here:
-http://forum.unity3d.com/threads/70681-Unity-Conversation-Engine
-
-
-licensed under http://creativecommons.org/licenses/by-sa/3.0/
+https://gitlab.com/lemuria.org/conversationengine
